@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wutang03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... starting programming as a beginner
+- 👀 I’m interested in a career change into tech!
+- 🌱 I’m currently learning The Odin Project 
+- 💞️ I’m looking to collaborate on fun beginner programs. I'm a huge fan of baseball and stats!
 - 📫 How to reach me ...
 
 <!---
